@@ -1,3 +1,6 @@
+
+<img width="664" alt="Captura de pantalla 2024-11-07 a la(s) 12 05 46 a m" src="https://github.com/user-attachments/assets/7ed0cb8d-2ae7-478d-981e-90995ada7b41">
+
 # Adaptive-Expert-System
 
 An open-source project to develop a self-evolving AI expert system that can adapt, learn, and improve autonomously.
